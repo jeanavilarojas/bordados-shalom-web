@@ -1,2 +1,2 @@
-# bordados-shalom-web
-Página web informativa diseñada para proporcionar información sobre productos y servicios textiles.
+# Bordados Shalom
+Informative website designed to provide information on textile products and services.
